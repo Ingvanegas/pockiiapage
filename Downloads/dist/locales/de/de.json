@@ -1,0 +1,75 @@
+{
+  "data": {
+    "dataCards": {
+      "card1": {
+        "titulo": "Transacciones",
+        "texto": "Facilitamos transacciones como transferencias, recargas, compra de membresias, apuestas deportivas, certificados y más, todo desde Whatsapp."
+      },
+      "card2": {
+        "titulo": "Servicios Cormerciales",
+        "texto": "Nos encargamos de estrategias de marketing y comunicación para conectar con audiencias específicas en eventos como lanzamientos y ofertas."
+      },
+      "card3": {
+        "titulo": "Servicios Asistenciales",
+        "texto": "Pocki resuelve preguntas frecuentes de su modelo de negocio y facilita la interacción con clientes con conversaciones “más humanas” de manera eficiente 24/7."
+      },
+      "card4": {
+        "titulo": "Eficiencia Operacional",
+        "texto": "Ofrecemos nuestra experiencia tecnológica para abordar las necesidades empresariales. Evaluamos y proponemos soluciones a medida."
+      }
+    },
+    "commercial": {
+      "card1": {
+        "titulo": "Servicios Públicos",
+        "texto": "Solo necesitarás foto del código de barras o referencia de pago de tu factura de servicios públicos."
+      },
+      "card2": {
+        "titulo": "Compra de pines",
+        "texto": "Podrás escoger entre una gran variedad de pines que tenemos para tí."
+      },
+      "card3": {
+        "titulo": "Recargas Móviles",
+        "texto": "Recarga fácilmente tu celular en cualquier momento y lugar que desees."
+      },
+      "card4": {
+        "titulo": "Compras en línea",
+        "texto": "Realiza compras seguras en línea con nuestras tarjetas virtuales."
+      },
+      "card5": {
+        "titulo": "Envío de dinero",
+        "texto": "Envía dinero a tus seres queridos de forma rápida y segura"
+      }
+    }
+  },
+  "header": {
+    "logoAlt": "pocki logo",
+    "nav": {
+      "inicio": "inicio",
+      "servicios": "servicios",
+      "conocenos": "conócenos",
+      "nosotros": "nuestro equipo",
+      "contacto": "Contacto"
+    },
+    "contador": "interacciones usuarios"
+  },
+  "inicio": {
+    "titulo": "Pocki, Tu asistente virtual de confianza",
+    "subtitulo": "conoce tu futuro asistente",
+    "texto": ", descubre el verdadero potencial",
+    "textoSpan1": "Fácil de manejar",
+    "textoSpan2": " de la Inteligencia Artificial.",
+    "cta": "Chatea con Pocki"
+  },
+  "conocenos": {
+    "nombreSeccion": "QUÉ TENEMOS PARA TÍ",
+    "titulo": "Comodidad, personalización y servicio excepcional:",
+    "tituloSpan": "Tu experiencia única",
+    "texto": "Pocki no solo realiza operaciones financieras, sino que también ofrece un conjunto de servicios basados en su aprendizaje constante de sus preferencias y comportamientos. Se trata de comodidad, personalización, servicio y asistencia excepcional"
+  },
+  "servicios": {
+    "nombreSeccion": "CÓMO FACILITAMOS TU VIDA",
+    "titulo": "Te invitamos a conocer las facilidades que",
+    "tituloSpan": "Pocki trae para tí",
+    "texto": "Nuestro asistente virtual ofrece eficiencia y precisión en tareas diarias, programación de citas, recordatorios y mucho más, mejorando así su productividad!"
+  }
+}
